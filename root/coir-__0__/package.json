@@ -1,0 +1,14 @@
+{
+  "name": "coir-__0__",
+  "version": "__2__",
+  "description": "coir-__0__",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coir"
+  ],
+  "author": "__1__",
+  "license": "ISC"
+}

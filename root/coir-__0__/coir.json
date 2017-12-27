@@ -1,0 +1,17 @@
+{
+  "check":[
+    {
+      "tip":"this is the answer.\nso?\ndo you like the coir?",
+      "color":"green",
+      "input":[
+        {
+          "test":".*",
+          "output": "__input__"
+        }
+      ]
+    }
+  ],
+  "fileName":".*",
+  "end":"---- build end --\n--- https://github.com/channg/coir ---",
+  "bin":"node coirBin"
+}
